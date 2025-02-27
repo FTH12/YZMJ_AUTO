@@ -1,0 +1,2 @@
+# YZMJ_AUTO
+YZMJ自动化脚本
